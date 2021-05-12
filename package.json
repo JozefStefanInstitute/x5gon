@@ -79,6 +79,6 @@
     "mocha": "^8.2.1",
     "node-minify": "^2.4.1",
     "supertest": "^3.3.0",
-    "ua-parser-js": "^0.7.22"
+    "ua-parser-js": "^0.7.24"
   }
 }
